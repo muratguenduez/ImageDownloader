@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h2APoi4Cuysj74D+etUlOZPu3t//m+qmmBGu1NqiVHrQ63KhIJFNWKnoXSwBSYaUXC+sTWxQxTDQKHgtzKIjOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Murat\\C#Projects\\ImageDownloader\\ImageDownloader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Murat\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

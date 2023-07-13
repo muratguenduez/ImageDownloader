@@ -1,0 +1,17 @@
+C:\Users\Murat\C#Projects\ImageDownloader\bin\Debug\net7.0\ImageDownloader.exe
+C:\Users\Murat\C#Projects\ImageDownloader\bin\Debug\net7.0\ImageDownloader.deps.json
+C:\Users\Murat\C#Projects\ImageDownloader\bin\Debug\net7.0\ImageDownloader.runtimeconfig.json
+C:\Users\Murat\C#Projects\ImageDownloader\bin\Debug\net7.0\ImageDownloader.dll
+C:\Users\Murat\C#Projects\ImageDownloader\bin\Debug\net7.0\ImageDownloader.pdb
+C:\Users\Murat\C#Projects\ImageDownloader\obj\Debug\net7.0\ImageDownloader.csproj.AssemblyReference.cache
+C:\Users\Murat\C#Projects\ImageDownloader\obj\Debug\net7.0\ImageDownloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murat\C#Projects\ImageDownloader\obj\Debug\net7.0\ImageDownloader.AssemblyInfoInputs.cache
+C:\Users\Murat\C#Projects\ImageDownloader\obj\Debug\net7.0\ImageDownloader.AssemblyInfo.cs
+C:\Users\Murat\C#Projects\ImageDownloader\obj\Debug\net7.0\ImageDownloader.csproj.CoreCompileInputs.cache
+C:\Users\Murat\C#Projects\ImageDownloader\obj\Debug\net7.0\ImageDownloader.dll
+C:\Users\Murat\C#Projects\ImageDownloader\obj\Debug\net7.0\refint\ImageDownloader.dll
+C:\Users\Murat\C#Projects\ImageDownloader\obj\Debug\net7.0\ImageDownloader.pdb
+C:\Users\Murat\C#Projects\ImageDownloader\obj\Debug\net7.0\ImageDownloader.genruntimeconfig.cache
+C:\Users\Murat\C#Projects\ImageDownloader\obj\Debug\net7.0\ref\ImageDownloader.dll
+C:\Users\Murat\C#Projects\ImageDownloader\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Murat\C#Projects\ImageDownloader\obj\Debug\net7.0\ImageDownloader.csproj.CopyComplete
